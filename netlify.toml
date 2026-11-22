@@ -1,0 +1,5 @@
+# Missy Phone is a static, single-file site (index.html at the repo root).
+# There is no framework, package manager, or build step — Netlify publishes the root as-is.
+[build]
+  command = ""
+  publish = "."
